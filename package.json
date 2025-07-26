@@ -1,9 +1,9 @@
 {
-  "homepage": "https://harunyan.github.io/react_janken/",
   "name": "react_janken",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://harunyan.github.io/react_janken/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
